@@ -1,0 +1,191 @@
+{
+   "products":[
+      {
+         "id":1,
+         "title":"Samsung Galaxy Tab S7",
+         "description":"Samsung Galaxy Tab S7, 11 LCD, 128GB, Wi-Fi, Mystic Black",
+         "price":600,
+         "discountPercentage":2.92,
+         "rating":4.92,
+         "stock":54,
+         "brand":"Samsung",
+         "category":"tablet",
+         "thumbnail":"https://img.freepik.com/foto-gratis/tableta-digital-aprendizaje-linea_53876-97301.jpg?t=st=1720398803~exp=1720402403~hmac=877b2eb6777845f25a1b627c179f941c37bcd3e171e36461012d7892c176e4c4&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/tableta-digital-aprendizaje-linea_53876-97301.jpg?t=st=1720398803~exp=1720402403~hmac=877b2eb6777845f25a1b627c179f941c37bcd3e171e36461012d7892c176e4c4&w=740"
+           
+         ]
+      },
+      {
+         "id":2,
+         "title":"MacBook Pro",
+         "description":"MacBook Pro 2021 with mini-LED display may launch between September, November",
+         "price":1749,
+         "discountPercentage":11.02,
+         "rating":4.57,
+         "stock":83,
+         "brand":"Apple",
+         "category":"laptops",
+         "thumbnail":"https://img.freepik.com/foto-gratis/dispositivo-portatil-fondo-monocromatico-minimalista_23-2150763335.jpg?t=st=1720396448~exp=1720400048~hmac=e295590130aa7564c7921fdeeadc431559379c8122e987a93a81e78ac5d444e9&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/dispositivo-portatil-fondo-monocromatico-minimalista_23-2150763335.jpg?t=st=1720396448~exp=1720400048~hmac=e295590130aa7564c7921fdeeadc431559379c8122e987a93a81e78ac5d444e9&w=740",
+            "https://img.freepik.com/foto-gratis/dispositivo-portatil-fondo-monocromatico-minimalista_23-2150763336.jpg?t=st=1720396459~exp=1720400059~hmac=73b93991e967cdc6559e582c91fccd434a06ae6a35e549c5199f44c07ebc2470&w=740",
+            "https://img.freepik.com/foto-gratis/dispositivo-portatil-fondo-monocromatico-minimalista_23-2150763337.jpg?t=st=1720396473~exp=1720400073~hmac=402f030785a58b63b7329f01e594edd18d69438cb355d022bbd80cff75927786&w=740"
+         ]
+      },
+      {
+         "id":3,
+         "title":"iPhone X",
+         "description":"SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+         "price":899,
+         "discountPercentage":17.94,
+         "rating":4.44,
+         "stock":34,
+         "brand":"Apple",
+         "category":"smartphones",
+         "thumbnail":"https://img.freepik.com/vector-gratis/nuevo-telefono-inteligente-diseno-plano-diferentes-perspectivas_23-2148799052.jpg?t=st=1720396615~exp=1720400215~hmac=c23ba60a572888ad62673b93f8e80b3cc1f23f39b4f97f787714d8f3e3756bae&w=740",
+         "images":[
+            "https://img.freepik.com/vector-gratis/nuevo-telefono-inteligente-diseno-plano-diferentes-perspectivas_23-2148799052.jpg?t=st=1720396615~exp=1720400215~hmac=c23ba60a572888ad62673b93f8e80b3cc1f23f39b4f97f787714d8f3e3756bae&w=740"
+         ]
+      },
+      {
+         "id":4,
+         "title":"Samsung Universe 9",
+         "description":"Samsung's new variant which goes beyond Galaxy to the Universe",
+         "price":1249,
+         "discountPercentage":15.46,
+         "rating":4.09,
+         "stock":36,
+         "brand":"Samsung",
+         "category":"smartphones",
+         "thumbnail":"https://img.freepik.com/foto-gratis/nuevo-telefono-celular-sobre-fondo-blanco_58702-5155.jpg?t=st=1720396726~exp=1720400326~hmac=5e14636cd40db3e87c7c153820658bce1e6455226671f2832e1264c97df27efe&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/nuevo-telefono-celular-sobre-fondo-blanco_58702-5155.jpg?t=st=1720396726~exp=1720400326~hmac=5e14636cd40db3e87c7c153820658bce1e6455226671f2832e1264c97df27efe&w=740"
+         ]
+      },
+      {
+         "id":5,
+         "title":"OPPOF19",
+         "description":"OPPO F19 is officially announced on April 2021.",
+         "price":280,
+         "discountPercentage":17.91,
+         "rating":4.3,
+         "stock":123,
+         "brand":"OPPO",
+         "category":"smartphones",
+         "thumbnail":"https://img.freepik.com/foto-gratis/telefono-14-lado-derecho-fondo-tematico-arabe_187299-35435.jpg?t=st=1720396893~exp=1720400493~hmac=48f7706ed4a23b4a2293ee42aab0673c8326a31d51675ba8127fea0ea6a63c89&w=740",
+         "images":[
+            "hhttps://img.freepik.com/foto-gratis/telefono-14-lado-derecho-fondo-tematico-arabe_187299-35435.jpg?t=st=1720396893~exp=1720400493~hmac=48f7706ed4a23b4a2293ee42aab0673c8326a31d51675ba8127fea0ea6a63c89&w=740"
+         ]
+      },
+      {
+         "id":6,
+         "title":"Huawei P30",
+         "description":"Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+         "price":499,
+         "discountPercentage":10.58,
+         "rating":4.09,
+         "stock":32,
+         "brand":"Huawei",
+         "category":"smartphones",
+         "thumbnail":"https://img.freepik.com/foto-gratis/caja-telefono-celular-blanca-fondo_58702-4677.jpg?t=st=1720397352~exp=1720400952~hmac=cb828085d526214501678695d2aa42dfe074519f78259a1d1bf26b3f3a2f1695&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/caja-telefono-celular-blanca-fondo_58702-4677.jpg?t=st=1720397352~exp=1720400952~hmac=cb828085d526214501678695d2aa42dfe074519f78259a1d1bf26b3f3a2f1695&w=740"
+         ]
+      },
+      {
+         "id":7,
+         "title":"Samsung Galaxy Book",
+         "description":"Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+         "price":1499,
+         "discountPercentage":4.15,
+         "rating":4.25,
+         "stock":50,
+         "brand":"Samsung",
+         "category":"laptops",
+         "thumbnail":"https://img.freepik.com/foto-gratis/bodegon-libros-versus-tecnologia_23-2150062920.jpg?t=st=1720397515~exp=1720401115~hmac=39fb7a019cc5b2b415e9ffb67b5ff16e5d1f5d034bb506a06f3666a9a3707f50&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/bodegon-libros-versus-tecnologia_23-2150062920.jpg?t=st=1720397515~exp=1720401115~hmac=39fb7a019cc5b2b415e9ffb67b5ff16e5d1f5d034bb506a06f3666a9a3707f50&w=740"
+         ]
+      },
+      {
+         "id":8,
+         "title":"iPhone 9",
+         "description":"An apple mobile which is nothing like apple",
+         "price":549,
+         "discountPercentage":12.96,
+         "rating":4.69,
+         "stock":94,
+         "brand":"Apple",
+         "category":"smartphones",
+         "thumbnail":"https://img.freepik.com/foto-gratis/arte-experimental-dispositivo-digital-pantalla-arte-burbuja-espacio-diseno_53876-124749.jpg?t=st=1720397778~exp=1720401378~hmac=17f4fb9bf767eac9c3d455b2efa3ff1555866d5ddb80582c140ad3b61d27ac5a&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/arte-experimental-dispositivo-digital-pantalla-arte-burbuja-espacio-diseno_53876-124749.jpg?t=st=1720397778~exp=1720401378~hmac=17f4fb9bf767eac9c3d455b2efa3ff1555866d5ddb80582c140ad3b61d27ac5a&w=740"
+         ]
+      },
+      {
+         "id":9,
+         "title":"Microsoft Surface Laptop 4",
+         "description":"Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+         "price":1499,
+         "discountPercentage":10.23,
+         "rating":4.43,
+         "stock":68,
+         "brand":"Microsoft Surface",
+         "category":"laptops",
+         "thumbnail":"https://img.freepik.com/foto-gratis/computadora-portatil-minima-mesa-bodegon_23-2149672659.jpg?t=st=1720397988~exp=1720401588~hmac=7eeacd2b40c4927d5f0a081ffbc7d0e78706b04cbca2c78d93295041978b2dac&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/computadora-portatil-minima-mesa-bodegon_23-2149672659.jpg?t=st=1720397988~exp=1720401588~hmac=7eeacd2b40c4927d5f0a081ffbc7d0e78706b04cbca2c78d93295041978b2dac&w=740"
+         ]
+      },
+      {
+         "id":10,
+         "title":"Infinix INBOOK",
+         "description":"Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+         "price":1099,
+         "discountPercentage":11.83,
+         "rating":4.54,
+         "stock":96,
+         "brand":"Infinix",
+         "category":"laptops",
+         "thumbnail":"https://img.freepik.com/foto-gratis/smartphone-auriculares-cerca-computadora-portatil-sofa_23-2147772852.jpg?t=st=1720398153~exp=1720401753~hmac=136d7cf92f84a9d4165b395f7aaab341e4493543bd8f7c44954edfaf8cdc6100&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/smartphone-auriculares-cerca-computadora-portatil-sofa_23-2147772852.jpg?t=st=1720398153~exp=1720401753~hmac=136d7cf92f84a9d4165b395f7aaab341e4493543bd8f7c44954edfaf8cdc6100&w=740"
+         ]
+      },
+      {
+         "id":11,
+         "title":"HP Pavilion 15 Tablet",
+         "description":"HP Pavilion 15 Gaming tablet 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+         "price":1099,
+         "discountPercentage":6.18,
+         "rating":4.43,
+         "stock":89,
+         "brand":"HP Pavilion",
+         "category":"tablet",
+         "thumbnail":"https://img.freepik.com/psd-gratis/mock-up-tableta-negra_1022-168.jpg?t=st=1720399383~exp=1720402983~hmac=7cf485f8b68738aee6ee34e4274223d7e38efcb48cb256cbc3a6517306cef362&w=360",
+         "images":[
+            "https://img.freepik.com/psd-gratis/mock-up-tableta-negra_1022-168.jpg?t=st=1720399383~exp=1720402983~hmac=7cf485f8b68738aee6ee34e4274223d7e38efcb48cb256cbc3a6517306cef362&w=360"
+         ]
+      },
+      {
+         "id":12,
+         "title":"Sony WH-1000XM4",
+         "description":"Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones",
+         "price":150,
+         "discountPercentage":6.18,
+         "rating":4.43,
+         "stock":88,
+         "brand":"Sony",
+         "category":"Audífonos",
+         "thumbnail":"https://img.freepik.com/foto-gratis/auriculares-audio-escuchar_74190-571.jpg?t=st=1720398938~exp=1720402538~hmac=bc81a69b0e17e2c99d262f760600704a8d1ae0b2b5d17532f8ab43fd0697bdcf&w=740",
+         "images":[
+            "https://img.freepik.com/foto-gratis/auriculares-audio-escuchar_74190-571.jpg?t=st=1720398938~exp=1720402538~hmac=bc81a69b0e17e2c99d262f760600704a8d1ae0b2b5d17532f8ab43fd0697bdcf&w=740"
+         ]
+      }
+      
+   ],
+   "total":100,
+   "skip":0,
+   "limit":30
+ }
